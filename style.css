@@ -1036,4 +1036,10 @@ body.light-mode .toggle-mode-btn {
   cursor: pointer;
   z-index: 1000;
   transition: background 0.2s, color 0.2s;
+
 }
+  .g-recaptcha {
+    margin: 1rem auto;
+    display: flex;
+    justify-content: center;
+  }
